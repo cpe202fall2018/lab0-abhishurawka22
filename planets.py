@@ -1,3 +1,4 @@
+#lab0
 def weight_on_planets():
    mass = int(input("What do you weigh on earth? "))
    Mars = mass*0.38
